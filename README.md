@@ -9,3 +9,11 @@ A compact reference for the exploratory and prototype work behind the Parviflo p
 - **SavedImages/** – Exported plots and figures generated during analysis.
 - **Parviflo_MVP.ipynb** – Prototype MVP backed by demo data for quick testing or presentations.
 - **Parviflo_Live.ipynb** – Production-leaning MVP wired to live data sources.
+
+## Environment setup
+
+Install the Python dependencies before opening the notebooks:
+
+```bash
+pip install -r requirements.txt
+```

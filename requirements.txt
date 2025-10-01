@@ -1,0 +1,12 @@
+cartopy
+contextily
+erddapy
+geopandas
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+xarray
