@@ -1,13 +1,11 @@
-# Structure
+# BlueCloud Research
 
-Correlations - folder with notebooks connected to exploratory data analysis and finding correlations from extracted data;
+A compact reference for the exploratory and prototype work behind the Parviflo project. The notebooks document the data collection process, exploratory analysis, and the live MVP used for demonstrations.
 
-DataExploration - folder with notebooks connected to getting the data, figuring out it's structure, displaying it.
-
-data - contains data from open sources that was used for data exploration, in different formats
-
-SavedImages - images saved from data analysis.
-
-Parviflo_MVP - contains mvp of our project with demo data (testing and demo purposes).
-
-Parviflo_Live - contains the mvp of the project with real live data.
+## Repository layout
+- **Correlations/** – Notebooks focused on exploratory statistics and correlation studies of the extracted datasets.
+- **DataExploration/** – First-pass notebooks for sourcing, cleaning, and visualising raw data.
+- **data/** – Shared source data pulled from open datasets (CSV, JSON, and other formats) used by the notebooks.
+- **SavedImages/** – Exported plots and figures generated during analysis.
+- **Parviflo_MVP.ipynb** – Prototype MVP backed by demo data for quick testing or presentations.
+- **Parviflo_Live.ipynb** – Production-leaning MVP wired to live data sources.
